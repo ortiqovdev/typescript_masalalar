@@ -101,4 +101,6 @@
 // let f:number=b+c
 // console.log(`Uzunligi ${p} A va C niki:${d} B va C niki: ${f}`);
 
+// salom
+
 export{}
